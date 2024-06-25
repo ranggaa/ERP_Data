@@ -3,8 +3,8 @@ package com.pages;
 public class Demo {
 public void add()
 {
-	int a=23;
-	int b=45;
+	int a=54567;
+	int b=67;
 	int c=a+b;
 	System.out.println(c);
 	
@@ -12,15 +12,15 @@ public void add()
 public void div()
 {
 	int a=67;
-	int b=6;
+	int b=78;
 	int c=a+b;
 	System.out.println(c);
 	
 }
 public void mul()
 {
-	int a=67;
-	int b=7;
+	int a=3456;
+	int b=78;
 	int c=a+b;
 	System.out.println(c);
 	
